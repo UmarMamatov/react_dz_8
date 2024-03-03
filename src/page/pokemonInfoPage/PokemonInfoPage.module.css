@@ -1,0 +1,29 @@
+.photo{
+    background-color: lightseagreen;
+    width: 350px;
+    height: 350px;
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.active {
+    color: red;
+}
+.photo img{
+    width: 200px;
+
+}
+.info{
+    text-transform: capitalize;
+}
+.item{
+    width: 350px;
+    height: 200px;
+    background-color: orange;
+    padding: 0;
+}
+.item span{
+    font-weight: bold;
+}

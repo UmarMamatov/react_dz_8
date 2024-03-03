@@ -1,0 +1,16 @@
+
+.info {
+  width: 200px;
+  height: 200px;
+  border: 1px solid red;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+li img {
+  width: 70px;
+}
